@@ -19,5 +19,12 @@
         "price": 26000,
         "description": "800萬前相機鏡頭<br>搭載最新M3晶片<br>使用AI機器人助手<br>是你的好選擇",
         "image": "https://media.istockphoto.com/id/1161116588/photo/mobile-phone-top-view-with-white-screen.jpg?s=612x612&w=0&k=20&c=6nGTbnTvQUiq2XXSYuT411pC-5B1SUjhpLhE3eGrNIw="
+    },
+    {
+        "id": 4,
+        "name": "Helmet",
+        "price": 2500,
+        "description": "選用ABS帽殼，強度高<br>搭配EPS保麗龍緩衝層及高透氣內襯<br>打造時尚安全美觀的台製安全帽",
+        "image": "https://media.istockphoto.com/id/475988379/photo/black-glossy-motorcycle-helmet.jpg?s=612x612&w=0&k=20&c=vj1sk3nQSQ7evbv-U5x7hbDc41Tz0xXfcuMlTy8FaUA="
     }
 ]
