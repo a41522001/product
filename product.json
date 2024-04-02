@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Iphone15",
+        "price": 35000,
+        "description": "這是一部很厲害的手機"
+    },
+    {
+        "id": 2,
+        "name": "Iphone13",
+        "price": 33000,
+        "description": "這是很厲害的手機"
+    },
+    {
+        "id": 3,
+        "name": "Iphone8",
+        "price": 26000,
+        "description": "這是手機"
+    }
+]
