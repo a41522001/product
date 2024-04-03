@@ -40,6 +40,27 @@
         "price": 32580,
         "description": "內外機燦金防鏽<br>耐腐蝕鍍鋅鋼板+超厚多層粉體塗裝<br>3D氣流<br>內外機自清淨<br>活性碳/銀離子濾網<br>基板防潮防蟲<br>R32環保冷媒<br>關機防霉<br>全系列超越一級10%以上<br>大螢幕高級遙控器 ",
         "image": "https://media.istockphoto.com/id/586057100/photo/split-air-conditioner-on-a-white-wall.jpg?s=612x612&w=0&k=20&c=SxC6sw5tZvTUvzRWGKCRCaKXqaxYn-U96CvIZShO3d0="
+    },
+    {
+        "id": 7,
+        "name": "Hair Dryer",
+        "price": 1250,
+        "description": "負離子吹風機：Cozy Companions離子吹風機採用先進的負離子技術<br>在吹乾過程中可釋出5億個負離子。讓你的頭髮保持絲滑並有效鎖住水分。告別靜電、乾燥和毛躁！",
+        "image": "https://media.istockphoto.com/id/1371731362/photo/golden-hair-dryer-isolated-on-white-background-copy-space-top-view.jpg?s=612x612&w=0&k=20&c=Wx9JPMP99nfDP8fpajdbtwJIy8wjIHKJpL0cSk6itrM="
+    },
+    {
+        "id": 8,
+        "name": "Head Phone",
+        "price": 3250,
+        "description": "專為舒適設計：貼耳式耳機將無線自由、沉浸式聲音和舒適貼合融為一體<br>附柔軟耳墊、可調式軟墊頭帶、旋轉和可折疊設計耳機",
+        "image": "https://media.istockphoto.com/id/1246138278/photo/silver-metallic-white-wireless-headphones-in-the-air-isolated-on-white-background-music.jpg?s=612x612&w=0&k=20&c=Xs150nT8O2jHQJ3tSA221BKFy--xHwfLd_kVYVGUgTY="
+    },
+    {
+        "id": 9,
+        "name": "Microphone",
+        "price": 350,
+        "description": "【出色的音質麥克風】採用專業的高速 DSP 處理並抑制不需要的背景噪音<br>無論您是在進行電話會議還是在播客，透過 USB 連接的麥克風將幫助您發出最佳聲音<br>支援高達 96kHz/16 位元的取樣率非常適合演示、播客、Zoom、Skype、錄音、YouTube、即時訊息、遊戲和 Twitch 上的串流媒體。",
+        "image": "https://media.istockphoto.com/id/462366313/photo/vintage-microphone.jpg?s=612x612&w=0&k=20&c=8UDcg1LHLErM1u8n38FymxrAhp20ThoMZdducS0JX84="
     }
 ]
 
