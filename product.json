@@ -26,5 +26,20 @@
         "price": 2500,
         "description": "選用ABS帽殼，強度高<br>搭配EPS保麗龍緩衝層及高透氣內襯<br>打造時尚安全美觀的台製安全帽",
         "image": "https://media.istockphoto.com/id/475988379/photo/black-glossy-motorcycle-helmet.jpg?s=612x612&w=0&k=20&c=vj1sk3nQSQ7evbv-U5x7hbDc41Tz0xXfcuMlTy8FaUA="
+    },
+    {
+        "id": 5,
+        "name": "Motor Bicycle",
+        "price": 70000,
+        "description": "車型：ABC 125  鼓煞 七期<br>顏色：白、銀、藍、黑<br>本車為113年正常車 / 可申請貨物稅4000元<br>價格不含牌照費、強制險",
+        "image": "https://images.pexels.com/photos/18109555/pexels-photo-18109555.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 6,
+        "name": "Air Conditioner",
+        "price": 32580,
+        "description": "內外機燦金防鏽<br>耐腐蝕鍍鋅鋼板+超厚多層粉體塗裝<br>3D氣流<br>內外機自清淨<br>活性碳/銀離子濾網<br>基板防潮防蟲<br>R32環保冷媒<br>關機防霉<br>全系列超越一級10%以上<br>大螢幕高級遙控器 ",
+        "image": "https://media.istockphoto.com/id/586057100/photo/split-air-conditioner-on-a-white-wall.jpg?s=612x612&w=0&k=20&c=SxC6sw5tZvTUvzRWGKCRCaKXqaxYn-U96CvIZShO3d0="
     }
 ]
+
