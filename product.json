@@ -89,5 +89,40 @@
         "price": 1280,
         "description": "彩虹條帶可變 RGB 顏色:色帶 RGB 有 1680 萬個可調顏色<br>色帶 RGB 可以根據遊戲聲音和音樂的節奏變化,增加遊戲的氣氛",
         "image": "https://m.media-amazon.com/images/I/81OFGaT-SlL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Computer",
+        "price": 32000,
+        "description": "強大的處理器和卓越的存儲空間:採用 Intel Core i5 處理器頂部配置,可提供閃電般快速、可靠和一致的性能,以確保卓越的電腦體驗<br>16GB RAM 記憶體,可一次順暢執行多個應用程式和瀏覽器標籤。 1TB 硬碟儲存空間,可儲存應用程式、遊戲、相片、音樂和電影<br>載入 16GB 以快速完成多個任務,不會延遲",
+        "image": "https://www.lifewire.com/thmb/WZdlwJIGSRA9Bkk7tKIj9Mgg-lk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/xxl-desktop-pc-98013994-5c4dcc47c9e77c0001380389.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Computer",
+        "price": 58000,
+        "description": "WINDOWS 10 Pro 最新:最新 Microsoft Windows 10 專業 64 位元作業系統軟體的新安裝<br>不含其他製造商常用的膨脹軟體作為 Microsoft 迄今為止最新和最好的作業系統",
+        "image": "https://editmicro.co.za/wp-content/uploads/2014/04/Desktop-Computer-by-edit-micro-700x450.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Screen",
+        "price": 3800,
+        "description": "使用我們的隱私屏幕,您可以放心地工作,知道您的敏感數據和個人信息將受到保護<br>我們的團隊已進行 5,000 多個角度實驗,以確保只有直接在螢幕前 (在 +-30° 角度內) 的內容可見,讓您的機密資訊安全無虞",
+        "image": "https://cdn.cs.1worldsync.com/f7/b0/f7b09a8a-c92a-45c1-b52e-4bdaf79ce65e.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Screen",
+        "price": 6600,
+        "description": "無論您是在辦公室、圖書館、機場或其他公共空間工作,我們的隱私螢幕都能提供確保螢幕安全的終極解決方案<br>非常適合醫療保健提供者、行動工作者、通勤者、學生和商務旅行者,還提供寶貴的防塵和刮傷",
+        "image": "https://cdn.vectorstock.com/i/1000x1000/17/91/computer-wide-flat-screen-monitor-vector-1171791.webp"
+    },
+    {
+        "id": 18,
+        "name": "Telephone",
+        "price": 580,
+        "description": "家用固定電話,16 位元高清顯示屏,來電號碼,日期,時間一目了然",
+        "image": "https://cdn.britannica.com/96/80596-050-FE68106A/Business-telephone-2000.jpg"
     }
 ]
