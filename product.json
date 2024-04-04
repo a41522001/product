@@ -1,45 +1,45 @@
 [
     {
         "id": 1,
-        "name": "Notebook",
-        "price": 35000,
-        "description": "16G記憶體，多工處理，網頁/文件同步使用超順暢<br>512G SSD，電腦免等待，秒速開機<br>搭載最新Ultra 7處理器<br>人工智慧加持，效能大躍進!<br>Wi-Fi 6E急速無線網路穩定連線<br>通過MIL-STD-810H軍規認證<br>雙前置揚聲器杜比音效優化<br>TUV認證，搭載WUXGA超高清螢幕<br>兩個全功能USB-Type-C連接埠",
-        "image": "https://media.istockphoto.com/id/1128662796/photo/laptop-with-blank-screen-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=6isPD4OK4-RYWR1AOm26mdaKcQFgeWFQdY5PAyQKIJo="
-    },
-    {
-        "id": 2,
         "name": "Watch",
         "price": 50000,
         "description": "抗環境力耐低溫(-10°C/14°F)<br>防水100米<br>灰色離子鍍膜錶圈<br>感應器功能",
         "image": "https://images.pexels.com/photos/280250/pexels-photo-280250.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
-        "id": 3,
+        "id": 2,
         "name": "Phone",
         "price": 26000,
         "description": "800萬前相機鏡頭<br>搭載最新M3晶片<br>使用AI機器人助手<br>是你的好選擇",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Fire_Phone.jpg/1200px-Fire_Phone.jpg"
     },
     {
-        "id": 4,
+        "id": 3,
         "name": "Helmet",
         "price": 2500,
         "description": "選用ABS帽殼，強度高<br>搭配EPS保麗龍緩衝層及高透氣內襯<br>打造時尚安全美觀的台製安全帽",
         "image": "https://media.istockphoto.com/id/475988379/photo/black-glossy-motorcycle-helmet.jpg?s=612x612&w=0&k=20&c=vj1sk3nQSQ7evbv-U5x7hbDc41Tz0xXfcuMlTy8FaUA="
     },
     {
-        "id": 5,
+        "id": 4,
         "name": "Motor Bicycle",
         "price": 70000,
         "description": "車型：ABC 125  鼓煞 七期<br>顏色：白、銀、藍、黑<br>本車為113年正常車 / 可申請貨物稅4000元<br>價格不含牌照費、強制險",
         "image": "https://images.pexels.com/photos/18109555/pexels-photo-18109555.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
-        "id": 6,
+        "id": 5,
         "name": "Air Conditioner",
         "price": 32580,
         "description": "內外機燦金防鏽<br>耐腐蝕鍍鋅鋼板+超厚多層粉體塗裝<br>3D氣流<br>內外機自清淨<br>活性碳/銀離子濾網<br>基板防潮防蟲<br>R32環保冷媒<br>關機防霉<br>全系列超越一級10%以上<br>大螢幕高級遙控器 ",
         "image": "https://media.istockphoto.com/id/586057100/photo/split-air-conditioner-on-a-white-wall.jpg?s=612x612&w=0&k=20&c=SxC6sw5tZvTUvzRWGKCRCaKXqaxYn-U96CvIZShO3d0="
+    },
+    {
+        "id": 6,
+        "name": "Notebook",
+        "price": 35000,
+        "description": "16G記憶體，多工處理，網頁/文件同步使用超順暢<br>512G SSD，電腦免等待，秒速開機<br>搭載最新Ultra 7處理器<br>人工智慧加持，效能大躍進!<br>Wi-Fi 6E急速無線網路穩定連線<br>通過MIL-STD-810H軍規認證<br>雙前置揚聲器杜比音效優化<br>TUV認證，搭載WUXGA超高清螢幕<br>兩個全功能USB-Type-C連接埠",
+        "image": "https://media.istockphoto.com/id/1128662796/photo/laptop-with-blank-screen-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=6isPD4OK4-RYWR1AOm26mdaKcQFgeWFQdY5PAyQKIJo="
     },
     {
         "id": 7,
