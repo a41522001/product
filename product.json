@@ -1,45 +1,45 @@
 [
     {
         "id": 1,
+        "name": "Notebook",
+        "price": 35000,
+        "description": "16G記憶體，多工處理，網頁/文件同步使用超順暢<br>512G SSD，電腦免等待，秒速開機<br>搭載最新Ultra 7處理器<br>人工智慧加持，效能大躍進!<br>Wi-Fi 6E急速無線網路穩定連線<br>通過MIL-STD-810H軍規認證<br>雙前置揚聲器杜比音效優化<br>TUV認證，搭載WUXGA超高清螢幕<br>兩個全功能USB-Type-C連接埠",
+        "image": "https://media.istockphoto.com/id/1394988455/photo/laptop-with-a-blank-screen-on-a-white-background.jpg?s=612x612&w=0&k=20&c=BXNMs3xZNXP__d22aVkeyfvgJ5T18r6HuUTEESYf_tE="
+    },
+    {
+        "id": 2,
         "name": "Watch",
         "price": 50000,
         "description": "抗環境力耐低溫(-10°C/14°F)<br>防水100米<br>灰色離子鍍膜錶圈<br>感應器功能",
         "image": "https://images.pexels.com/photos/280250/pexels-photo-280250.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
-        "id": 2,
+        "id": 3,
         "name": "Phone",
         "price": 26000,
         "description": "800萬前相機鏡頭<br>搭載最新M3晶片<br>使用AI機器人助手<br>是你的好選擇",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Fire_Phone.jpg/1200px-Fire_Phone.jpg"
+        "image": "https://media.istockphoto.com/id/1161116588/photo/mobile-phone-top-view-with-white-screen.jpg?s=612x612&w=0&k=20&c=6nGTbnTvQUiq2XXSYuT411pC-5B1SUjhpLhE3eGrNIw="
     },
     {
-        "id": 3,
+        "id": 4,
         "name": "Helmet",
         "price": 2500,
         "description": "選用ABS帽殼，強度高<br>搭配EPS保麗龍緩衝層及高透氣內襯<br>打造時尚安全美觀的台製安全帽",
         "image": "https://media.istockphoto.com/id/475988379/photo/black-glossy-motorcycle-helmet.jpg?s=612x612&w=0&k=20&c=vj1sk3nQSQ7evbv-U5x7hbDc41Tz0xXfcuMlTy8FaUA="
     },
     {
-        "id": 4,
+        "id": 5,
         "name": "Motor Bicycle",
         "price": 70000,
         "description": "車型：ABC 125  鼓煞 七期<br>顏色：白、銀、藍、黑<br>本車為113年正常車 / 可申請貨物稅4000元<br>價格不含牌照費、強制險",
         "image": "https://images.pexels.com/photos/18109555/pexels-photo-18109555.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
-        "id": 5,
+        "id": 6,
         "name": "Air Conditioner",
         "price": 32580,
         "description": "內外機燦金防鏽<br>耐腐蝕鍍鋅鋼板+超厚多層粉體塗裝<br>3D氣流<br>內外機自清淨<br>活性碳/銀離子濾網<br>基板防潮防蟲<br>R32環保冷媒<br>關機防霉<br>全系列超越一級10%以上<br>大螢幕高級遙控器 ",
         "image": "https://media.istockphoto.com/id/586057100/photo/split-air-conditioner-on-a-white-wall.jpg?s=612x612&w=0&k=20&c=SxC6sw5tZvTUvzRWGKCRCaKXqaxYn-U96CvIZShO3d0="
-    },
-    {
-        "id": 6,
-        "name": "Notebook",
-        "price": 35000,
-        "description": "16G記憶體，多工處理，網頁/文件同步使用超順暢<br>512G SSD，電腦免等待，秒速開機<br>搭載最新Ultra 7處理器<br>人工智慧加持，效能大躍進!<br>Wi-Fi 6E急速無線網路穩定連線<br>通過MIL-STD-810H軍規認證<br>雙前置揚聲器杜比音效優化<br>TUV認證，搭載WUXGA超高清螢幕<br>兩個全功能USB-Type-C連接埠",
-        "image": "https://media.istockphoto.com/id/1128662796/photo/laptop-with-blank-screen-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=6isPD4OK4-RYWR1AOm26mdaKcQFgeWFQdY5PAyQKIJo="
     },
     {
         "id": 7,
@@ -61,6 +61,33 @@
         "price": 350,
         "description": "【出色的音質麥克風】採用專業的高速 DSP 處理並抑制不需要的背景噪音<br>無論您是在進行電話會議還是在播客，透過 USB 連接的麥克風將幫助您發出最佳聲音<br>支援高達 96kHz/16 位元的取樣率非常適合演示、播客、Zoom、Skype、錄音、YouTube、即時訊息、遊戲和 Twitch 上的串流媒體。",
         "image": "https://media.istockphoto.com/id/462366313/photo/vintage-microphone.jpg?s=612x612&w=0&k=20&c=8UDcg1LHLErM1u8n38FymxrAhp20ThoMZdducS0JX84="
+    },
+    {
+        "id": 10,
+        "name": "Keyboard",
+        "price": 3000,
+        "description": "迷你便攜式 60% 緊湊佈局是 68 鍵機械鍵盤,具有可愛的小尺寸<br>,獨立的方向鍵和您需要的所有 F 鍵,可用於遊戲或工作,同時節省空間。",
+        "image": "https://www.daskeyboard.com/images/das-keyboard-6-professional/6-pro-top-view.jpeg"
+    },
+    {
+        "id": 11,
+        "name": "Keyboard",
+        "price": 2100,
+        "description": "機械式紅色開關:具有線性和平滑性,輕微的按鍵聲音沒有段落感,阻力最小<br>但是快速動作沒有觸覺的碰撞感覺,這使得敲擊鍵盤更容易。",
+        "image": "https://m.media-amazon.com/images/I/71pHnBCAqmL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Mouse",
+        "price": 880,
+        "description": "高速精密光學感測器:高精度光學感測器,200-12800 DPI 的可調範圍<br>125-1000Hz 的輪詢速率為遊戲提供類似獵鷹的反應和精確的游標移動。",
+        "image": "https://i.dell.com/is/image/DellContent/content/dam/images/products/electronics-and-accessories/dell/pointing-devices/ms300/ms300-kbm-04-bk.psd?fmt=pjpg&pscan=auto&scl=1&wid=4141&hei=3475&qlt=100,1&resMode=sharp2&size=4141,3475&chrss=full&imwidth=5000"
+    },
+    {
+        "id": 13,
+        "name": "Mouse",
+        "price": 1280,
+        "description": "彩虹條帶可變 RGB 顏色:色帶 RGB 有 1680 萬個可調顏色<br>色帶 RGB 可以根據遊戲聲音和音樂的節奏變化,增加遊戲的氣氛",
+        "image": "https://m.media-amazon.com/images/I/81OFGaT-SlL._AC_UF1000,1000_QL80_.jpg"
     }
 ]
-
