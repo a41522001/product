@@ -124,5 +124,47 @@
         "price": 580,
         "description": "家用固定電話,16 位元高清顯示屏,來電號碼,日期,時間一目了然",
         "image": "https://cdn.britannica.com/96/80596-050-FE68106A/Business-telephone-2000.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Phone Case",
+        "price": 280,
+        "description": "適用於 iPhone 7、iPhone 8、iPhone SE 2022/2020,採用優質環保矽膠材料製成<br>防滑握把,安全且易於握持。 支援無線充電",
+        "image": "https://i.etsystatic.com/25812568/r/il/67da59/3734519949/il_794xN.3734519949_lpoo.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Book",
+        "price": 550,
+        "description": "述說古典文學與心理犯罪,出版於2024年<br>令人看了會過目不忘,感到深刻印象的各種書籍",
+        "image": "https://cdn.britannica.com/83/78183-004-345353F4/Stack-books.jpg"
+    },
+    {
+        "id": 21,
+        "name": "Bicycle",
+        "price": 3800,
+        "description": "使用橡膠皮帶,與金屬鏈相比,它更安靜,使用壽命更長,不需要油脂或潤滑油<br>您一定會喜歡耐用性和最小的維護,您的孩子會喜歡騎行的敏捷、輕便和樂趣。 ​",
+        "image": "https://www.brooklynbicycleco.com/cdn/shop/files/willow-3-speed-31082637623376.jpg?v=1687537332"
+    },
+    {
+        "id": 22,
+        "name": "Bicycle",
+        "price": 9500,
+        "description": "自行車使用知名零件,如歐陸橡膠帶、TEKTRO 手剎和 CST 充氣輪胎<br>您可以信賴的優質零件,而無需充氣。",
+        "image": "https://www.prioritybicycles.com/cdn/shop/products/main_600x_37056c95-ce48-415a-86e4-da527b4e8b23.jpg?v=1708061432"
+    },
+    {
+        "id": 23,
+        "name": "Bookbag",
+        "price": 250,
+        "description": "多功能經典背包:這款大學背包可輕鬆從筆記型電腦轉換成休閒背包、旅行背包和工作背包<br>無論是駕馭日常生活、征服通勤或探索新視野,無論您走到哪裡,都能保持您的風格",
+        "image": "https://image.made-in-china.com/2f0j00TEOqoMUWJubD/Lightweight-Backpack-for-School-Classic-Basic-Water-Resistant-Casual-Daypack-Plain-Bookbag-Pastel-Blue-.webp"
+    },
+    {
+        "id": 24,
+        "name": "Cat Litter",
+        "price": 980,
+        "description": "FEBREZE 的力量:Fresh Step,Ammonia Block 技術和活性炭可阻擋液氣味<br>因此您聞起來的清新、清潔的香味。",
+        "image": "https://cdn.shopify.com/s/files/1/0997/4496/articles/shutterstock_600989276_f4d72e8c-ae79-4739-9944-f6d75f6225b9.jpg?v=1588960191"
     }
 ]
