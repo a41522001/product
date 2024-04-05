@@ -3,119 +3,119 @@
         "id": 1,
         "name": "筆記型電腦",
         "price": 35000,
-        "description": "16G記憶體，多工處理，網頁/文件同步使用超順暢<br>512G SSD，電腦免等待，秒速開機<br>搭載最新Ultra 7處理器<br>人工智慧加持，效能大躍進!<br>Wi-Fi 6E急速無線網路穩定連線<br>通過MIL-STD-810H軍規認證<br>雙前置揚聲器杜比音效優化<br>TUV認證，搭載WUXGA超高清螢幕<br>兩個全功能USB-Type-C連接埠",
+        "description": "16G記憶體，多工處理，網頁/文件同步使用超順暢512G SSD，電腦免等待，秒速開機搭載最新Ultra 7處理器人工智慧加持，效能大躍進!Wi-Fi 6E急速無線網路穩定連線，通過MIL-STD-810H軍規認證，雙前置揚聲器杜比音效優化，TUV認證，搭載WUXGA超高清螢幕，兩個全功能USB-Type-C連接埠",
         "image": "https://media.istockphoto.com/id/1394988455/photo/laptop-with-a-blank-screen-on-a-white-background.jpg?s=612x612&w=0&k=20&c=BXNMs3xZNXP__d22aVkeyfvgJ5T18r6HuUTEESYf_tE="
     },
     {
         "id": 2,
         "name": "手錶",
         "price": 50000,
-        "description": "抗環境力耐低溫(-10°C/14°F)<br>防水100米<br>灰色離子鍍膜錶圈<br>感應器功能",
+        "description": "抗環境力耐低溫(-10°C/14°F)，防水100米<br>灰色離子鍍膜錶圈，感應器功能",
         "image": "https://images.pexels.com/photos/280250/pexels-photo-280250.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
         "id": 3,
         "name": "手機",
         "price": 26000,
-        "description": "800萬前相機鏡頭<br>搭載最新M3晶片<br>使用AI機器人助手<br>是你的好選擇",
+        "description": "800萬前相機鏡頭，搭載最新M3晶片，使用AI機器人助手<br>是你的好選擇",
         "image": "https://media.istockphoto.com/id/1161116588/photo/mobile-phone-top-view-with-white-screen.jpg?s=612x612&w=0&k=20&c=6nGTbnTvQUiq2XXSYuT411pC-5B1SUjhpLhE3eGrNIw="
     },
     {
         "id": 4,
         "name": "安全帽",
         "price": 2500,
-        "description": "選用ABS帽殼，強度高<br>搭配EPS保麗龍緩衝層及高透氣內襯<br>打造時尚安全美觀的台製安全帽",
+        "description": "選用ABS帽殼，強度高，搭配EPS保麗龍緩衝層及高透氣內襯，打造時尚安全美觀的台製安全帽",
         "image": "https://media.istockphoto.com/id/475988379/photo/black-glossy-motorcycle-helmet.jpg?s=612x612&w=0&k=20&c=vj1sk3nQSQ7evbv-U5x7hbDc41Tz0xXfcuMlTy8FaUA="
     },
     {
         "id": 5,
         "name": "機車",
         "price": 70000,
-        "description": "車型：ABC 125  鼓煞 七期<br>顏色：白、銀、藍、黑<br>本車為113年正常車 / 可申請貨物稅4000元<br>價格不含牌照費、強制險",
+        "description": "車型：ABC 125  鼓煞 七期<br>顏色：白、銀、藍、黑，本車為113年正常車 / 可申請貨物稅4000元，價格不含牌照費、強制險",
         "image": "https://images.pexels.com/photos/18109555/pexels-photo-18109555.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
         "id": 6,
         "name": "冷氣",
         "price": 32580,
-        "description": "內外機燦金防鏽<br>耐腐蝕鍍鋅鋼板+超厚多層粉體塗裝<br>3D氣流<br>內外機自清淨<br>活性碳/銀離子濾網<br>基板防潮防蟲<br>R32環保冷媒<br>關機防霉<br>全系列超越一級10%以上<br>大螢幕高級遙控器 ",
+        "description": "內外機燦金防鏽，耐腐蝕鍍鋅鋼板+超厚多層粉體塗裝，3D氣流，內外機自清淨，活性碳/銀離子濾網<br>基板防潮防蟲，R32環保冷媒，關機防霉，全系列超越一級10%以上，大螢幕高級遙控器 ",
         "image": "https://media.istockphoto.com/id/586057100/photo/split-air-conditioner-on-a-white-wall.jpg?s=612x612&w=0&k=20&c=SxC6sw5tZvTUvzRWGKCRCaKXqaxYn-U96CvIZShO3d0="
     },
     {
         "id": 7,
         "name": "吹風機",
         "price": 1250,
-        "description": "負離子吹風機：Cozy Companions離子吹風機採用先進的負離子技術<br>在吹乾過程中可釋出5億個負離子。讓你的頭髮保持絲滑並有效鎖住水分。告別靜電、乾燥和毛躁！",
+        "description": "負離子吹風機：Cozy Companions離子吹風機採用先進的負離子技術，在吹乾過程中可釋出5億個負離子。讓你的頭髮保持絲滑並有效鎖住水分。告別靜電、乾燥和毛躁！",
         "image": "https://media.istockphoto.com/id/1371731362/photo/golden-hair-dryer-isolated-on-white-background-copy-space-top-view.jpg?s=612x612&w=0&k=20&c=Wx9JPMP99nfDP8fpajdbtwJIy8wjIHKJpL0cSk6itrM="
     },
     {
         "id": 8,
         "name": "耳機",
         "price": 3250,
-        "description": "專為舒適設計：貼耳式耳機將無線自由、沉浸式聲音和舒適貼合融為一體<br>附柔軟耳墊、可調式軟墊頭帶、旋轉和可折疊設計耳機",
+        "description": "專為舒適設計：貼耳式耳機將無線自由、沉浸式聲音和舒適貼合融為一體，附柔軟耳墊、可調式軟墊頭帶、旋轉和可折疊設計耳機",
         "image": "https://media.istockphoto.com/id/1246138278/photo/silver-metallic-white-wireless-headphones-in-the-air-isolated-on-white-background-music.jpg?s=612x612&w=0&k=20&c=Xs150nT8O2jHQJ3tSA221BKFy--xHwfLd_kVYVGUgTY="
     },
     {
         "id": 9,
         "name": "麥克風",
         "price": 350,
-        "description": "【出色的音質麥克風】採用專業的高速 DSP 處理並抑制不需要的背景噪音<br>無論您是在進行電話會議還是在播客，透過 USB 連接的麥克風將幫助您發出最佳聲音<br>支援高達 96kHz/16 位元的取樣率非常適合演示、播客、Zoom、Skype、錄音、YouTube、即時訊息、遊戲和 Twitch 上的串流媒體。",
+        "description": "【出色的音質麥克風】採用專業的高速 DSP 處理並抑制不需要的背景噪音，無論您是在進行電話會議還是在播客，透過 USB 連接的麥克風將幫助您發出最佳聲音，支援高達 96kHz/16 位元的取樣率非常適合演示、播客、Zoom、Skype、錄音、YouTube、即時訊息、遊戲和 Twitch 上的串流媒體。",
         "image": "https://media.istockphoto.com/id/462366313/photo/vintage-microphone.jpg?s=612x612&w=0&k=20&c=8UDcg1LHLErM1u8n38FymxrAhp20ThoMZdducS0JX84="
     },
     {
         "id": 10,
         "name": "鍵盤",
         "price": 3000,
-        "description": "迷你便攜式 60% 緊湊佈局是 68 鍵機械鍵盤,具有可愛的小尺寸<br>,獨立的方向鍵和您需要的所有 F 鍵,可用於遊戲或工作,同時節省空間。",
+        "description": "迷你便攜式 60% 緊湊佈局是 68 鍵機械鍵盤,具有可愛的小尺寸,獨立的方向鍵和您需要的所有 F 鍵,可用於遊戲或工作,同時節省空間。",
         "image": "https://www.daskeyboard.com/images/das-keyboard-6-professional/6-pro-top-view.jpeg"
     },
     {
         "id": 11,
         "name": "鍵盤",
         "price": 2100,
-        "description": "機械式紅色開關:具有線性和平滑性,輕微的按鍵聲音沒有段落感,阻力最小<br>但是快速動作沒有觸覺的碰撞感覺,這使得敲擊鍵盤更容易。",
+        "description": "機械式紅色開關:具有線性和平滑性,輕微的按鍵聲音沒有段落感,阻力最小，但是快速動作沒有觸覺的碰撞感覺,這使得敲擊鍵盤更容易。",
         "image": "https://m.media-amazon.com/images/I/71pHnBCAqmL._AC_UF894,1000_QL80_.jpg"
     },
     {
         "id": 12,
         "name": "滑鼠",
         "price": 880,
-        "description": "高速精密光學感測器:高精度光學感測器,200-12800 DPI 的可調範圍<br>125-1000Hz 的輪詢速率為遊戲提供類似獵鷹的反應和精確的游標移動。",
+        "description": "高速精密光學感測器:高精度光學感測器,200-12800 DPI 的可調範圍，125-1000Hz 的輪詢速率為遊戲提供類似獵鷹的反應和精確的游標移動。",
         "image": "https://i.dell.com/is/image/DellContent/content/dam/images/products/electronics-and-accessories/dell/pointing-devices/ms300/ms300-kbm-04-bk.psd?fmt=pjpg&pscan=auto&scl=1&wid=4141&hei=3475&qlt=100,1&resMode=sharp2&size=4141,3475&chrss=full&imwidth=5000"
     },
     {
         "id": 13,
         "name": "滑鼠",
         "price": 1280,
-        "description": "彩虹條帶可變 RGB 顏色:色帶 RGB 有 1680 萬個可調顏色<br>色帶 RGB 可以根據遊戲聲音和音樂的節奏變化,增加遊戲的氣氛",
+        "description": "彩虹條帶可變 RGB 顏色:色帶 RGB 有 1680 萬個可調顏色，色帶 RGB 可以根據遊戲聲音和音樂的節奏變化,增加遊戲的氣氛",
         "image": "https://m.media-amazon.com/images/I/81OFGaT-SlL._AC_UF1000,1000_QL80_.jpg"
     },
     {
         "id": 14,
         "name": "電腦",
         "price": 32000,
-        "description": "強大的處理器和卓越的存儲空間:採用 Intel Core i5 處理器頂部配置,可提供閃電般快速、可靠和一致的性能,以確保卓越的電腦體驗<br>16GB RAM 記憶體,可一次順暢執行多個應用程式和瀏覽器標籤。 1TB 硬碟儲存空間,可儲存應用程式、遊戲、相片、音樂和電影<br>載入 16GB 以快速完成多個任務,不會延遲",
+        "description": "強大的處理器和卓越的存儲空間:採用 Intel Core i5 處理器頂部配置,可提供閃電般快速、可靠和一致的性能,以確保卓越的電腦體驗，16GB RAM 記憶體,可一次順暢執行多個應用程式和瀏覽器標籤。 1TB 硬碟儲存空間,可儲存應用程式、遊戲、相片、音樂和電影，載入 16GB 以快速完成多個任務,不會延遲",
         "image": "https://www.lifewire.com/thmb/WZdlwJIGSRA9Bkk7tKIj9Mgg-lk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/xxl-desktop-pc-98013994-5c4dcc47c9e77c0001380389.jpg"
     },
     {
         "id": 15,
         "name": "電腦",
         "price": 58000,
-        "description": "WINDOWS 10 Pro 最新:最新 Microsoft Windows 10 專業 64 位元作業系統軟體的新安裝<br>不含其他製造商常用的膨脹軟體作為 Microsoft 迄今為止最新和最好的作業系統",
+        "description": "WINDOWS 10 Pro 最新:最新 Microsoft Windows 10 專業 64 位元作業系統軟體的新安裝，不含其他製造商常用的膨脹軟體作為 Microsoft 迄今為止最新和最好的作業系統",
         "image": "https://editmicro.co.za/wp-content/uploads/2014/04/Desktop-Computer-by-edit-micro-700x450.jpg"
     },
     {
         "id": 16,
         "name": "螢幕",
         "price": 3800,
-        "description": "使用我們的隱私屏幕,您可以放心地工作,知道您的敏感數據和個人信息將受到保護<br>我們的團隊已進行 5,000 多個角度實驗,以確保只有直接在螢幕前 (在 +-30° 角度內) 的內容可見,讓您的機密資訊安全無虞",
+        "description": "使用我們的隱私屏幕,您可以放心地工作,知道您的敏感數據和個人信息將受到保護，我們的團隊已進行 5,000 多個角度實驗,以確保只有直接在螢幕前 (在 +-30° 角度內) 的內容可見,讓您的機密資訊安全無虞",
         "image": "https://cdn.cs.1worldsync.com/f7/b0/f7b09a8a-c92a-45c1-b52e-4bdaf79ce65e.jpg"
     },
     {
         "id": 17,
         "name": "螢幕",
         "price": 6600,
-        "description": "無論您是在辦公室、圖書館、機場或其他公共空間工作,我們的隱私螢幕都能提供確保螢幕安全的終極解決方案<br>非常適合醫療保健提供者、行動工作者、通勤者、學生和商務旅行者,還提供寶貴的防塵和刮傷",
+        "description": "無論您是在辦公室、圖書館、機場或其他公共空間工作,我們的隱私螢幕都能提供確保螢幕安全的終極解決方案，非常適合醫療保健提供者、行動工作者、通勤者、學生和商務旅行者,還提供寶貴的防塵和刮傷",
         "image": "https://cdn.vectorstock.com/i/1000x1000/17/91/computer-wide-flat-screen-monitor-vector-1171791.webp"
     },
     {
@@ -129,42 +129,42 @@
         "id": 19,
         "name": "手機殼",
         "price": 280,
-        "description": "適用於 iPhone 7、iPhone 8、iPhone SE 2022/2020,採用優質環保矽膠材料製成<br>防滑握把,安全且易於握持。 支援無線充電",
+        "description": "適用於 iPhone 7、iPhone 8、iPhone SE 2022/2020,採用優質環保矽膠材料製成，防滑握把,安全且易於握持。 支援無線充電",
         "image": "https://i.etsystatic.com/25812568/r/il/67da59/3734519949/il_794xN.3734519949_lpoo.jpg"
     },
     {
         "id": 20,
         "name": "書",
         "price": 550,
-        "description": "述說古典文學與心理犯罪,出版於2024年<br>令人看了會過目不忘,感到深刻印象的各種書籍",
+        "description": "述說古典文學與心理犯罪,出版於2024年，令人看了會過目不忘,感到深刻印象的各種書籍",
         "image": "https://cdn.britannica.com/83/78183-004-345353F4/Stack-books.jpg"
     },
     {
         "id": 21,
         "name": "自行車",
         "price": 3800,
-        "description": "使用橡膠皮帶,與金屬鏈相比,它更安靜,使用壽命更長,不需要油脂或潤滑油<br>您一定會喜歡耐用性和最小的維護,您的孩子會喜歡騎行的敏捷、輕便和樂趣。 ​",
+        "description": "使用橡膠皮帶,與金屬鏈相比,它更安靜,使用壽命更長,不需要油脂或潤滑油，您一定會喜歡耐用性和最小的維護,您的孩子會喜歡騎行的敏捷、輕便和樂趣。 ​",
         "image": "https://www.brooklynbicycleco.com/cdn/shop/files/willow-3-speed-31082637623376.jpg?v=1687537332"
     },
     {
         "id": 22,
         "name": "自行車",
         "price": 9500,
-        "description": "自行車使用知名零件,如歐陸橡膠帶、TEKTRO 手剎和 CST 充氣輪胎<br>您可以信賴的優質零件,而無需充氣。",
+        "description": "自行車使用知名零件,如歐陸橡膠帶、TEKTRO 手剎和 CST 充氣輪胎，您可以信賴的優質零件,而無需充氣。",
         "image": "https://www.prioritybicycles.com/cdn/shop/products/main_600x_37056c95-ce48-415a-86e4-da527b4e8b23.jpg?v=1708061432"
     },
     {
         "id": 23,
         "name": "書包",
         "price": 250,
-        "description": "多功能經典背包:這款大學背包可輕鬆從筆記型電腦轉換成休閒背包、旅行背包和工作背包<br>無論是駕馭日常生活、征服通勤或探索新視野,無論您走到哪裡,都能保持您的風格",
+        "description": "多功能經典背包:這款大學背包可輕鬆從筆記型電腦轉換成休閒背包、旅行背包和工作背包，無論是駕馭日常生活、征服通勤或探索新視野,無論您走到哪裡,都能保持您的風格",
         "image": "https://image.made-in-china.com/2f0j00TEOqoMUWJubD/Lightweight-Backpack-for-School-Classic-Basic-Water-Resistant-Casual-Daypack-Plain-Bookbag-Pastel-Blue-.webp"
     },
     {
         "id": 24,
         "name": "貓砂",
         "price": 980,
-        "description": "FEBREZE 的力量:Fresh Step,Ammonia Block 技術和活性炭可阻擋液氣味<br>因此您聞起來的清新、清潔的香味。",
+        "description": "FEBREZE 的力量:Fresh Step,Ammonia Block 技術和活性炭可阻擋液氣味，因此您聞起來的清新、清潔的香味。",
         "image": "https://cdn.shopify.com/s/files/1/0997/4496/articles/shutterstock_600989276_f4d72e8c-ae79-4739-9944-f6d75f6225b9.jpg?v=1588960191"
     }
 ]
