@@ -31,14 +31,14 @@
         "id": 5,
         "name": "機車",
         "price": 70000,
-        "description": "車型：ABC 125  鼓煞 七期<br>顏色：白、銀、藍、黑，本車為113年正常車 / 可申請貨物稅4000元，價格不含牌照費、強制險",
+        "description": "車型：ABC 125  鼓煞 七期，顏色：白、銀、藍、黑，本車為113年正常車 / 可申請貨物稅4000元，價格不含牌照費、強制險",
         "image": "https://images.pexels.com/photos/18109555/pexels-photo-18109555.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
         "id": 6,
         "name": "冷氣",
         "price": 32580,
-        "description": "內外機燦金防鏽，耐腐蝕鍍鋅鋼板+超厚多層粉體塗裝，3D氣流，內外機自清淨，活性碳/銀離子濾網<br>基板防潮防蟲，R32環保冷媒，關機防霉，全系列超越一級10%以上，大螢幕高級遙控器 ",
+        "description": "內外機燦金防鏽，耐腐蝕鍍鋅鋼板+超厚多層粉體塗裝，3D氣流，內外機自清淨，活性碳/銀離子濾網，基板防潮防蟲，R32環保冷媒，關機防霉，全系列超越一級10%以上，大螢幕高級遙控器 ",
         "image": "https://media.istockphoto.com/id/586057100/photo/split-air-conditioner-on-a-white-wall.jpg?s=612x612&w=0&k=20&c=SxC6sw5tZvTUvzRWGKCRCaKXqaxYn-U96CvIZShO3d0="
     },
     {
