@@ -10,14 +10,14 @@
         "id": 2,
         "name": "手錶",
         "price": 50000,
-        "description": "抗環境力耐低溫(-10°C/14°F)，防水100米<br>灰色離子鍍膜錶圈，感應器功能",
+        "description": "抗環境力耐低溫(-10°C/14°F)，防水100米，灰色離子鍍膜錶圈，感應器功能",
         "image": "https://images.pexels.com/photos/280250/pexels-photo-280250.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
         "id": 3,
         "name": "手機",
         "price": 26000,
-        "description": "800萬前相機鏡頭，搭載最新M3晶片，使用AI機器人助手<br>是你的好選擇",
+        "description": "800萬前相機鏡頭，搭載最新M3晶片，使用AI機器人助手，是你的好選擇",
         "image": "https://media.istockphoto.com/id/1161116588/photo/mobile-phone-top-view-with-white-screen.jpg?s=612x612&w=0&k=20&c=6nGTbnTvQUiq2XXSYuT411pC-5B1SUjhpLhE3eGrNIw="
     },
     {
