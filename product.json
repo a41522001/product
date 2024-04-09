@@ -17,12 +17,12 @@
         "checked": false,
         "count": 1
     },
-    {
+    {   
         "id": 3,
-        "name": "手機",
-        "price": 26000,
-        "description": "800萬前相機鏡頭，搭載最新M3晶片，使用AI機器人助手，是你的好選擇",
-        "image": "https://media.istockphoto.com/id/1161116588/photo/mobile-phone-top-view-with-white-screen.jpg?s=612x612&w=0&k=20&c=6nGTbnTvQUiq2XXSYuT411pC-5B1SUjhpLhE3eGrNIw=",
+        "name": "冷氣",
+        "price": 32580,
+        "description": "內外機燦金防鏽，耐腐蝕鍍鋅鋼板+超厚多層粉體塗裝，3D氣流，內外機自清淨，活性碳/銀離子濾網，基板防潮防蟲，R32環保冷媒，關機防霉，全系列超越一級10%以上，大螢幕高級遙控器 ",
+        "image": "https://media.istockphoto.com/id/586057100/photo/split-air-conditioner-on-a-white-wall.jpg?s=612x612&w=0&k=20&c=SxC6sw5tZvTUvzRWGKCRCaKXqaxYn-U96CvIZShO3d0=",
         "checked": false,
         "count": 1
     },
@@ -46,10 +46,10 @@
     },
     {
         "id": 6,
-        "name": "冷氣",
-        "price": 32580,
-        "description": "內外機燦金防鏽，耐腐蝕鍍鋅鋼板+超厚多層粉體塗裝，3D氣流，內外機自清淨，活性碳/銀離子濾網，基板防潮防蟲，R32環保冷媒，關機防霉，全系列超越一級10%以上，大螢幕高級遙控器 ",
-        "image": "https://media.istockphoto.com/id/586057100/photo/split-air-conditioner-on-a-white-wall.jpg?s=612x612&w=0&k=20&c=SxC6sw5tZvTUvzRWGKCRCaKXqaxYn-U96CvIZShO3d0=",
+        "name": "手機",
+        "price": 26000,
+        "description": "800萬前相機鏡頭，搭載最新M3晶片，使用AI機器人助手，是你的好選擇",
+        "image": "https://media.istockphoto.com/id/1161116588/photo/mobile-phone-top-view-with-white-screen.jpg?s=612x612&w=0&k=20&c=6nGTbnTvQUiq2XXSYuT411pC-5B1SUjhpLhE3eGrNIw=",
         "checked": false,
         "count": 1
     },
